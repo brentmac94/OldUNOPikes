@@ -44,7 +44,7 @@ UNOPikesMySQL: {
     adapter: 'sails-mysql',
     host: 'localhost',
     user: 'uno_pikes_admin',
-    password: 'Huskers12',
+    password: 'password1',
     database: 'UNOPikes'
   },
 
